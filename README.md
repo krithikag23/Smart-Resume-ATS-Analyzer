@@ -34,7 +34,6 @@ Built using lightweight Machine Learning models with **no heavy GPU dependencies
 No PyTorch, No spaCy, No HuggingFace → **Zero DLL issues on Windows** ✔️
 
 ---
-
 ## 📦 Installation
 
 Clone the repository:
