@@ -44,5 +44,4 @@ git clone https://github.com/<your-username>/Smart-Resume-ATS-Analyzer.git
 cd Smart-Resume-ATS-Analyzer
 
 
-## 📁 Project Structure
 
