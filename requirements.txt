@@ -1,5 +1,5 @@
 streamlit
-sentence-transformers
+spacy
 scikit-learn
 numpy
 pandas
